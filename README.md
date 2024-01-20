@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @spandan-dev (age 17)
-- 👀 I’m interested in (web devlopment)
+- 👋 Hi, I’m @spandan-dev (age 19)
+- 👀 I’m interested in (web development)
 - 🌱 I’m currently learning (linux commandline and git hub basics)
 - 💞️ I’m looking to collaborate on (not decided)
 - 📫 How to reach me (spandanchoudharyspc@gmail.com)
